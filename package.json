@@ -1,0 +1,14 @@
+{
+  "name": "tugas-16-cypress",
+  "version": "1.0.0",
+  "description": "tigas cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "puput",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.16.0"
+  }
+}
